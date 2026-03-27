@@ -4,7 +4,7 @@ This is an oauth test demo app
 ## Run
 
 ```bash
-go run .
+node server.js
 ```
 
 Open:
